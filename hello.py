@@ -1,5 +1,5 @@
 Print("Hello World")
 Print("this is linuxhint")
 Print("this is linux")
-Print("I have added this line11")
-Print("I have added this line21")
+Print("I have added this line10")
+Print("I have added this line20")
